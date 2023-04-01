@@ -1,0 +1,7 @@
+name: AnvilParticlesBreak
+version: '${project.version}'
+main: fr.dimenspace.anvilparticlesbreak.AnvilParticlesBreak
+api-version: 1.18
+authors: [ DimenSpace ]
+description: Plugin that adds breaking particles when an anvil is broken by falling or getting used too much (and also Dimen's first plugin)
+website: https://github.com/DimenCode
